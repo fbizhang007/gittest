@@ -9,5 +9,7 @@ import java.sql.SQLOutput;
 public class Gittest {
     public static void main(String[] args) {
         System.out.println("git1");
+
+        System.out.println("git_hot-fix");
     }
 }
